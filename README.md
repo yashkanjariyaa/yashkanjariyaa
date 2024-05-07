@@ -9,12 +9,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align="center">
-  Hey there 👋
-</div>
-<div align="center">
-  I am Yash Kanjariya
-</div>
+
+---
+
+Hey there, I am Yash Kanjariya👋
+
 ---
 ### About Me
 
