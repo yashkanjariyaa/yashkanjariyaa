@@ -10,11 +10,8 @@
   </a>
 </div>
 
----
-
 ## Hey there, I am Yash Kanjariya👋
 
----
 ### About Me
 
 - 💼 Currently student at DJSCE, Mumbai.
