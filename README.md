@@ -12,7 +12,7 @@
 
 ---
 
-Hey there, I am Yash Kanjariya👋
+## Hey there, I am Yash Kanjariya👋
 
 ---
 ### About Me
