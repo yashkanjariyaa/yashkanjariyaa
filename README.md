@@ -14,7 +14,7 @@
 
 ### About Me
 
-- 💼 Currently student at DJSCE, Mumbai.
+- 💼 Btech Computer Science and Engineering (Data Science) at DJSCE, Mumbai.
 - 🌱 I’m currently focusing on fullstack web development.
 - 📚 Studying theoretical Computer Science.
 - 💬 Ask me about Technology, Desinging, Science.
