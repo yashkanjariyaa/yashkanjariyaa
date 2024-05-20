@@ -23,7 +23,7 @@
 
 Here are some of the projects I've built in hackathons this year:
 
-- [VartaLang](https://github.com/yashkanjariyaa/VartaLang-BoiledRice.git): An AI powered language leraning application, with translation/transcription extension.
+- [VartaLang](https://github.com/yashkanjariyaa/VartaLang-BoiledRice.git): An AI powered language learning application, with translation/transcription browser extension.
 - [GreenLedger](https://github.com/yashkanjariyaa/GreenLedger---BoiledRice.git): Waste managment website, with gamification and blockchain based reward system.
 - [DefiCosmos](https://github.com/yashkanjariyaa/DeFiCosmos.git): Cross-Chain portofolio sharing and chat application, with wallet integration and Blaze API.
 ---
