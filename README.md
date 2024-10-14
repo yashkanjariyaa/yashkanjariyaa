@@ -15,13 +15,13 @@
 ### About Me
 
 - 💼 Btech Computer Science and Engineering (Data Science) at DJSCE, Mumbai.
-- 🌱 I’m currently focusing on fullstack web development.
-- 📚 Studying theoretical Computer Science.
+- 🌱 I’m currently focusing on Fullstack Development.
+- 📚 Studying Theoretical Computer Science.
 - 💬 Ask me about Technology, Desinging, Science.
 ---
 ### My Projects
 
-Here are some of the projects I've built in hackathons this year:
+Here are some of the projects I've built this year:
 - [Web compiler - Solidity/Rust](https://github.com/yashkanjariyaa/web3-compiler): Web compiler for solidity and rust, made using solcjs and rustc
 - [VartaLang](https://github.com/yashkanjariyaa/VartaLang-BoiledRice.git): An AI powered language learning application, with translation/transcription browser extension.
 - [GreenLedger](https://github.com/yashkanjariyaa/GreenLedger---BoiledRice.git): Waste managment website, with gamification and blockchain based reward system.
