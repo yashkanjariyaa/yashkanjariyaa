@@ -27,6 +27,18 @@
 
 ---
 
+### Experience
+
+* **AI Developer Intern** — *Drilldown, Mumbai*
+  *Jan 2025 – Present*
+  Developed and deployed AI-powered micro solutions for the HoReCa industry. Worked on MLops pipelines, custom AI agents, and marketplace applications using modern full stack and cloud technologies.
+
+* **R\&D Chemoinformatics Intern** — *Los Pollos Hermanos, Albuquerque*
+  *Jun 2023 – Dec 2024*
+  Led synthesis optimization and high-stakes product quality assurance in a controlled lab environment. Applied precision engineering principles and chemical modeling tools to refine scalable compound manufacturing.
+
+---
+
 ### Featured Projects
 
 - **Financial Auditing AI**  
