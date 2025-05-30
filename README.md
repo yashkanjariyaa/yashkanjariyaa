@@ -1,9 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA5OGNqZTI2YjJpM3lrZTVmYXk4NGJyYjhudHkweDg4aHBkYm10bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7EMuTfl61WDzFwar6G/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yashkanjariyaa69/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/yashkanjariyaa/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://docs.google.com/document/d/1g9LKJGwIxb4bhXlZTNZHsxABfIEs7VIycP1P1_yGOVg/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
 
